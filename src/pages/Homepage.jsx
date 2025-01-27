@@ -1,7 +1,12 @@
+import { Link } from "react-router-dom"
+import PageNav from "../components/PageNav"
+
 function Homepage() {
     return (
         <div>
-            Atlas Adventures Home Page
+        <PageNav />
+            <h1>Atlas Adventures Home Page</h1>
+            <Link to="/pricing">Pricing</Link>
         </div>
     )
 }
