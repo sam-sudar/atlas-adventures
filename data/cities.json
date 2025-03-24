@@ -49,16 +49,16 @@
       "id": 98443199
     },
     {
-      "cityName": "Navalvillar de Pela",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-03-20T15:43:21.786Z",
-      "notes": "Valid",
+      "cityName": "Larchant",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-24T15:11:37.259Z",
+      "notes": "Not Great ",
       "position": {
-        "lat": "39.117438925317074",
-        "lng": "-5.493164062500001"
+        "lat": "48.29186743316063",
+        "lng": "2.5488281250000004"
       },
-      "id": 98443201
+      "id": 98443200
     }
   ]
 }
